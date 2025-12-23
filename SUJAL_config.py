@@ -10,7 +10,7 @@ This file contains configuration settings for the token generator
 # Application Settings
 APP_NAME = "ClassPlus Auto Token Generator"
 OWNER = "𓍯𝙎𝙪𝙟𝙖𝙡⚝"
-CONTACT = "https://t.me/+a4G4NWd8v4kxODk1"
+CONTACT = "https://t.me/Apnaexcess2308_bot"
 
 # Token Generation Settings
 MAX_RETRY_ATTEMPTS = 10
