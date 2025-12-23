@@ -18,7 +18,7 @@ GENERATION_TIMEOUT = 30
 
 # ClassPlus Organization Codes (6-letter capital codes)
 ORG_CODES = [
-    "YSRPS", "TSEK9", "NTYPE", "AZAGR", "GAXVZ",  # Known working codes
+    "CEKRZY", "RCGNKQ", "ICVXLA", "FYCWU", "OGBSQJ",  # Known working codes
     "UPSCEX", "IASEX", "SSCEX", "BANKEX", "RAILWY",  # Exam preparation
     "MATHSX", "PHYSX", "CHEMX", "BIOX", "ENGX",      # Subject codes  
     "CLASSX", "STUDYX", "LEARNX", "TEACHX", "EDUX",  # Education related
